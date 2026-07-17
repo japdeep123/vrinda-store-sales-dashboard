@@ -1,6 +1,6 @@
 # 🛍️ Vrinda Store Annual Sales Dashboard 2022
 
-**Tools:** Excel · PivotTables · Power Query · Data Visualisation | **Type:** Guided Project | **Instructor:** Rishabh Mishra
+**Tools:** Excel · PivotTables · Power Query · Data Visualisation | **Type:** Training Project — Data Visualisation & Business Intelligence
 
 ---
 
@@ -39,5 +39,36 @@ This project analyses **Vrinda Store's 2022 annual sales data** to uncover reven
 
 ## 🔍 Methodology
 
-1. **Data Collection** — Raw sales data from Vrinda Store 2022 records
-2. **Data Cleaning** — Handled inconsistencies, standardised gender
+1. **Data Cleaning** — Handled inconsistencies, standardised gender and status columns in Excel
+2. **Data Processing** — Created calculated columns for Month and Age Group using Excel formulas
+3. **PivotTable Analysis** — Built multiple PivotTables to answer each business question
+4. **Dashboard Design** — Combined charts and slicers into a single interactive dashboard view
+5. **Insight Delivery** — Summarised findings into actionable business recommendations
+
+---
+
+## 💡 Key Insights
+
+- **March** recorded the highest sales and order volume for 2022
+- **Women (64%)** significantly outpurchase men across all categories
+- **Maharashtra, Karnataka & Uttar Pradesh** are the top 3 revenue-generating states
+- **92% of orders** were successfully delivered — strong fulfilment rate
+- **Amazon (35%)** is the single largest sales channel
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Tool | Usage |
+|------|-------|
+| Excel | Data cleaning, PivotTables, dashboard design |
+| Power Query | Data transformation and loading |
+| Slicers | Interactive filtering by Month, Category, Channel |
+
+---
+
+## 👤 Author
+
+**Japdeep Singh**
+Former Data Analyst Intern — Analytics Career Connect
+[LinkedIn](https://www.linkedin.com/in/japdeep-singh-15713b325/) · [Portfolio Website](https://japdeep123.github.io/portfolio)
